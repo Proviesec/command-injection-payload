@@ -11,7 +11,8 @@ If you have any GitHub Dorks, just create a PullRequest.
 
 # Todos
 
-- [ ] IP ping back
+- [ ] IP Pingback payloads
+- [ ] Sleep Command Injection Payloads
 
 # Tools
 
